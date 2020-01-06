@@ -1,9 +1,9 @@
 # tmath307
 This repository contains the labs for TMATH 307; you can find all jupyter notebooks here. 
 
-If you have local version of these softwares (you will need to install jupyter notebook in a virtual environment), feel free to use your own machine to work on the labs. Please check your version in requirements.txt and runtime.txt
+If you have local version of these softwares, feel free to use your own machine to work on the labs. Please check your version in requirements.txt and runtime.txt. You will need to install jupyter notebook in a virtual environment, let me know if you need/want some help.
 
-# The following is optional. The purpose is to make sure we work with the same versions of softwares. You do not need to use Binder to run the labs, but you do need to use Jupyter notebook.
+The following is optional. The purpose is to make sure we work with the same versions of softwares and therefore get same outputs (i.e., to make our experiments reproducible). You do not need to use Binder to run the labs, but you do need to use Jupyter notebook.
 
 click below for Jupyter Notebook via Binder! 
 
