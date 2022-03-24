@@ -1,4 +1,7 @@
-#to create virtual environment
+# to install virtualenv
+sudo -H pip3 install virtualenv
+
+#to create virtual environment in target folder
 
 virtualenv projectEnv
 
@@ -26,9 +29,10 @@ python3 -m pip install --upgrade pip
 
 ## install with pip3 with version specified
 
-pip3 install numpy==1.18.0
-pip3 install scipy==1.4.1
-pip3 install matplotlib==3.1.2
+pip3 install numpy==1.22.3 
+pip3 install scipy==1.8.0
+pip3 install matplotlib==3.5.1
+pip3 install pandas == 1.4.1
 
 ## install jupyter notebook
 
