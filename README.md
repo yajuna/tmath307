@@ -9,7 +9,7 @@ To open notebooks in Google Colab: <a target="_blank" href="https://colab.resear
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-To open JupyterLab with Binder: 
+To open JupyterLab with Binder (which has been having some issues lately): 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yajuna/tmath307/HEAD)
 
