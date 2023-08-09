@@ -11,7 +11,7 @@ source projectEnv/bin/activate
 
 #to verify python version
 
-python -V
+python -V (or python3 -V)
 
 #to deactivate
 
