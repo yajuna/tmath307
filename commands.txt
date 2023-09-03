@@ -1,0 +1,5 @@
+source lab_env/bin/activate # activate virtual env
+
+jupyter notebook # activate jupyter notebook
+
+Ctrl + C # shut down the notebook
